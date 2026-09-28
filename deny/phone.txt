@@ -2,6 +2,7 @@
 !
 ! Facebook
 !
-||Facebook^
+||facebook^
 ||fbcdn.net^
 ||fbsbx.com^
+||facebook.com^
