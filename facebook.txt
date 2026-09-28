@@ -1,1 +1,5 @@
-(^|\.)facebook\.com$
+# Facebook
+facebook.com
+fbcdn.net
+fbsbx.com
+facebook.com
