@@ -1,0 +1,22 @@
+i.inimg.com
+in.pinterest.com
+pinterest.com
+
+#Google images
+bing.net
+encrypted-tbn.l.google.com
+encrypted-tbn.l.gstatic.com
+encrypted-tbn0.gstatic.com
+encrypted-tbn1.gstatic.com
+encrypted-tbn2.gstatic.com
+encrypted-tbn3.gstatic.com
+images.google.com
+t0.gstatic.com
+t1.gstatic.com
+t2.gstatic.com
+t3.gstatic.com
+tbn.l.google.com
+tse1.mm.bing.net
+tse2.mm.bing.net
+tse3.mm.bing.net
+tse4.mm.bing.net
